@@ -1,11 +1,11 @@
-import { Category } from './Components/Category'
-import './App.css'
-
+import { ListOfCategories } from "./Components/ListOfCategories"
+import { GlobalStyle } from "./GlobalStyles"
 function App() {
 
   return (
     <div className="App">
-      <Category />
+      <GlobalStyle />
+      <ListOfCategories />
     </div>
   )
 }
