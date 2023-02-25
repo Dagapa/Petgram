@@ -1,5 +1,5 @@
 import { ListOfCategories } from "./Components/ListOfCategories"
-import { GlobalStyle } from "./GlobalStyles"
+import { GlobalStyle } from "./Styles/GlobalStyles"
 import { ListOfPhotoCards } from "./Components/ListOfPhotoCards"
 import { Logo } from "./Components/Logo/Index"
 function App() {
